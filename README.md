@@ -1,7 +1,7 @@
 # Guru Charan Bulusu
 **Principal Architect | Enterprise AI & Data Platform Strategist**  
 📍 **Location:** Bengaluru, India | ✉️ **Email:** [Gurucb@outlook.com](mailto:Gurucb@outlook.com) | 📱 **Mobile:** +91 xxxxxxxxxx  
-🔗 **GitHub:** [github.com/gurucb](https://github.com/gurucb) | 🔗 **Project Repository:** [Agent & Workflow Platform](projects.md)
+🔗 **GitHub:** [github.com/gurucb](https://github.com/gurucb) | 🔗 **Project Repository:** [Projects](projects.md)
 
 ---
 
