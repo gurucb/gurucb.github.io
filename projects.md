@@ -16,7 +16,7 @@ The **Enterprise Digital Twin (EDT)** provides a governed harness for creating, 
 4. **Goal-seeking agent creation:** Enables agents to be created and optimized autonomously around defined business goals while remaining grounded in enterprise policies, security standards, and operating principles.
 5. **Task-aware evaluation:** Evaluates how effectively an agent completes the task at hand, including its decisions, actions, policy compliance, and business outcomes, rather than judging only the LLM's final response.
 
-> **Status:** Prototype under active development.
+> **Status:** MVP developed as part of a Microsoft Hackathon.
 
 ---
 
@@ -34,6 +34,6 @@ The **Agent Workflow Enterprise Pattern** provides a standardized, governed life
 4. **Governed Repository:** Stores approved agents and workflows as enterprise assets with role-based access control, audit history, and token governance.
 5. **Execution Engine:** Enables business users to invoke and monitor workflows, review outcomes, and provide feedback for continuous improvement.
 
-> **Status:** Enterprise pattern under active development.
+> **Status:** MVP developed as part of a Microsoft Hackathon.
 
 [Back to profile](README.md)
